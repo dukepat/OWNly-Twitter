@@ -1,0 +1,11 @@
+.Desktop1 {
+  font-family: "Open Sans", sans-serif;
+  background: linear-gradient(
+    223.51deg,
+    #380659 0%,
+    #150240 49.54%,
+    #06495e 100%
+  );
+  min-width: 100vw;
+  min-height: 100vh;
+}
